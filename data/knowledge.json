@@ -1,0 +1,17 @@
+{
+  "company_name": "Apex Digital Agency",
+  "services": [
+    {
+      "name": "Web Scraping & Data Extraction",
+      "price": "$150 - $500",
+      "turnaround": "2-4 days"
+    },
+    {
+      "name": "Custom AI Chatbots",
+      "price": "$200 - $800",
+      "turnaround": "3-5 days"
+    }
+  ],
+  "contact_email": "support@apexdigital.com",
+  "operating_hours": "Monday - Friday, 9 AM - 6 PM EST"
+}
